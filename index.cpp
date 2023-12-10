@@ -244,6 +244,9 @@ void userMenu(UserList& userList, queue<string>& userQueue) {
                 cout << "\n" << endl;
                 break;
         }
+        if (choice == 3) {
+            break;
+        }
     } while (userChoice != 3);
 }
 
@@ -720,7 +723,7 @@ void saveDataToFile(Pengirim& K, Penerima& T, Detail& B, const string& ekspedisi
 
         outFile.close();
         cout << "Data berhasil disimpan di file " << ekspedisi + "_data.txt" << endl;
-    } else {
+        tampilMenuUser(User{ K.nama, "" });
         cout << "Gagal membuka file untuk penyimpanan data." << endl;
     }
 }

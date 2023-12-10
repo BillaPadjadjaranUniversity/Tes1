@@ -1,0 +1,34 @@
+Jenis Pengiriman: Next Day
+Data Pengirim
+Nama: davin
+Nomor Telepon: 0812
+Alamat: dasd
+
+Data Penerima
+Nama: davin
+Nomor Telepon: 0812
+Alamat: uuu
+
+Detail Barang
+Jenis Barang: baju
+Berat Barang: 1 kg
+Jarak Pengiriman: 1 km
+=================================================
+
+Jenis Pengiriman: Regular
+Data Pengirim
+Nama: davin
+Nomor Telepon: 0812
+Alamat: dasd
+
+Data Penerima
+Nama: davin
+Nomor Telepon: 0812
+Alamat: uuu
+
+Detail Barang
+Jenis Barang: baju
+Berat Barang: 1 kg
+Jarak Pengiriman: 1 km
+=================================================
+

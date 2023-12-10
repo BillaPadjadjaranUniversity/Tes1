@@ -1,0 +1,17 @@
+Jenis Pengiriman: Same Day
+Data Pengirim
+Nama: asd
+Nomor Telepon: 12
+Alamat: asd
+
+Data Penerima
+Nama: asfa
+Nomor Telepon: 234
+Alamat: sagfa
+
+Detail Barang
+Jenis Barang: afsa
+Berat Barang: 3 kg
+Jarak Pengiriman: 1 km
+=================================================
+
