@@ -820,6 +820,6 @@ int main() {
 
     userList.saveToFile("user_data.txt");
 
-    return 0; 
+    return 0;
 }
 
